@@ -48,7 +48,7 @@ It provides an interactive interface to explore AI-generated urban layouts, visu
 
 ### Installation
 
-1. Clone the repository:
+1.Clone the repository:
 
 ```bash
 git clone https://github.com/Deepika6689/generative-ai-for-urban-planning.git
