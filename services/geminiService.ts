@@ -207,7 +207,7 @@ export async function generateUrbanPlan(settings: ControlSettings, activeModuleI
   };
 
   try {
-    // Retry logic with fallback for model overload errors
+    
 const MAX_RETRIES = 3;
 let response;
 let modelName = "gemini-2.5-flash";
