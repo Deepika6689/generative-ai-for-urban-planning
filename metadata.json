@@ -1,0 +1,5 @@
+{
+  "name": "Generative AI for Urban Planning",
+  "description": "An AI-driven tool that generates optimized, sustainable, and data-informed city layouts. Users can set parameters like population density and green space coverage, and the AI will produce a conceptual urban plan with a visual representation.",
+  "requestFramePermissions": []
+}
