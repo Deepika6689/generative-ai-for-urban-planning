@@ -72,11 +72,24 @@ npm run dev
 # or
 yarn dev
 ```
+4.Open your browser and visit:
+```
+http://localhost:3000/
+```
+
 ## 🎯 Try It Yourself
 
 1. Clone the repo and install dependencies.
 2. Run the app locally with `npm run dev`.
 3. Explore the interactive urban planning interface.
 4. Modify configurations in `metadata.json` to generate custom city layouts.
+
+🙋‍♀️ Author
+
+Made with ❤️ by Deepika
+
+Feel free to connect or contribute!
+
+
 
 
