@@ -6,6 +6,12 @@
 It provides an interactive interface to explore AI-generated urban layouts, visualize city planning scenarios, and understand optimized urban design decisions.
 
 ---
+## 🚀 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://genai-urbanplanning.netlify.app/)
+
+
+
 
 ## 🚀 Tech Stack & Tools
 
