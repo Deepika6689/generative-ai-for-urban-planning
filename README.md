@@ -73,4 +73,6 @@ yarn dev
 3. Explore the interactive urban planning interface.
 4. Modify configurations in `metadata.json` to generate custom city layouts.
 
+## Update:
+Minor improvements and documentation updates will be made whenever needed.
 
