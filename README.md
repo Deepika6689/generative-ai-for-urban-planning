@@ -1,15 +1,6 @@
-<!-- Animated Header Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Generative+AI+for+Urban+Planning;Interactive+AI+City+Layout+Visualizer;Built+with+React+%7C+TypeScript+%7C+Vite" alt="Typing SVG" />
-</p>
-
----
-
-# 🌆 Generative AI for Urban Planning  
-A **frontend application** that leverages **Generative AI** to produce and visualize modern, optimized city layouts.  
-Built with a strong focus on **performance**, **modularity**, and **interactive design**.
-
----
+# Generative AI for Urban Planning 
+## 🌟 About the Project 
+**Generative AI for Urban Planning** is a frontend web application built using **React** and **TypeScript**. It provides an interactive interface to explore AI-generated urban layouts, visualize city planning scenarios, and understand optimized urban design decisions. ---
 
 ## 🚀 Live Application  
 <p align="center">
