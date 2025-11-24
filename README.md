@@ -1,17 +1,30 @@
-# Generative AI for Urban Planning
-
-## 🌟 About the Project
-
-**Generative AI for Urban Planning** is a frontend web application built using **React** and **TypeScript**.  
-It provides an interactive interface to explore AI-generated urban layouts, visualize city planning scenarios, and understand optimized urban design decisions.
+<!-- Animated Header Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Generative+AI+for+Urban+Planning;Interactive+AI+City+Layout+Visualizer;Built+with+React+%7C+TypeScript+%7C+Vite" alt="Typing SVG" />
+</p>
 
 ---
-## 🚀 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://genai-urbanplanning.netlify.app/)
+# 🌆 Generative AI for Urban Planning  
+A **frontend application** that leverages **Generative AI** to produce and visualize modern, optimized city layouts.  
+Built with a strong focus on **performance**, **modularity**, and **interactive design**.
 
+---
 
+## 🚀 Live Application  
+<p align="center">
+  <a href="https://genai-urbanplanning.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit-Live%20Demo-22c55e?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
 
+---
+
+## 🧩 Technology Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,js,html,css&theme=light" />
+</p>
 
 ## 🚀 Tech Stack & Tools
 
@@ -26,72 +39,103 @@ It provides an interactive interface to explore AI-generated urban layouts, visu
 ---
 
 ## 📁 Project Structure
+
 ```
-├── components/ # React components
-├── config/ # Configuration files
-├── services/ # API or service calls
-├── App.tsx # Main React app component
-├── index.html # HTML entry point
-├── index.tsx # React entry point
-├── metadata.json # Project metadata
-├── package.json # Node dependencies
-├── tsconfig.json # TypeScript config
-├── vite.config.ts # Vite configuration
-├── types.ts # TypeScript types
-├── .gitignore
-├── README.md # Project documentation
+root/
+│── components/       # UI modules & feature components
+│── config/           # Environment, constants, and setup configs
+│── services/         # Business logic & API handlers
+│── types.ts          # Global TypeScript types
+│── metadata.json     # AI engine configuration
+│── App.tsx           # Root layout and application wrapper
+│── index.tsx         # React entry point
+│── index.html        # HTML document
+│── vite.config.ts    # Vite configuration
+│── tsconfig.json     # TypeScript settings
+│── package.json      # Dependencies & scripts
+└── README.md         # Project documentation
 ```
 
 ---
 
-## 🛠️ Setup Instructions
+## ⚙️ Installation & Setup
 
-### Prerequisites
-
-- Node.js (v16 or higher)
-- npm or yarn
-- Git
-
-### Installation
-
-1.Clone the repository:
-
+### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/Deepika6689/generative-ai-for-urban-planning.git
 cd generative-ai-for-urban-planning
 ```
-2.Install dependencies:
-```
+
+### 2️⃣ Install Dependencies  
+```bash
 npm install
 # or
 yarn install
 ```
-3.Run the application:
-```
+
+### 3️⃣ Run the Development Server  
+```bash
 npm run dev
 # or
 yarn dev
 ```
-4.Open your browser and visit:
+
+### 4️⃣ Open in Browser  
 ```
 http://localhost:3000/
 ```
 
-## 🎯 Try It Yourself
+---
 
-1. Clone the repo and install dependencies.
-2. Run the app locally with `npm run dev`.
-3. Explore the interactive urban planning interface.
-4. Modify configurations in `metadata.json` to generate custom city layouts.
+## 🧪 How It Works  
 
-## Update:
-Minor improvements and documentation updates will be made whenever needed.
+- Load city generation interface  
+- Select or modify planning scenarios  
+- Adjust AI parameters via **metadata.json**  
+- Visualize layout transformations in real time  
+- Customize UI components for expanded functionality  
 
-🙋‍♀️ Author
+---
 
-Made with ❤️ by Deepika
+## 🎞️ Demo Animation (Optional Placeholder)
+*(Replace with your own GIF later)*
 
-Feel free to connect or contribute!
+<p align="center">
+  <img src="https://i.imgur.com/6RMhx.gif" width="600" />
+</p>
 
+---
 
+## 🔮 Future Roadmap
 
+```
+▢ Enhanced visual presets  
+▢ Export AI-generated city plans  
+▢ Detailed zoning metrics  
+▢ Real-time simulation controls  
+▢ Multi-layer rendering  
+▢ More AI configuration templates  
+```
+
+---
+
+## 👩‍💻 Author  
+**Deepika**  
+Continuous learning • Clean UI lover • Exploring AI + Urban tech
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Active%20Development-0ea5e9?style=for-the-badge" />
+</p>
+
+---
+
+## ⭐ Additional Enhancements (If You Want)
+I can add:
+
+- ✨ **Glassmorphism UI Preview mockups**  
+- ✨ **Dark mode aesthetic README**  
+- ✨ **3D animated title SVG**  
+- ✨ **Tech stack animation line**  
+- ✨ **Professional header banner with branding**  
+
+Just say **“make it ultra premium”** or **“give me dark mode version”** 🔥
