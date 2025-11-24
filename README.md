@@ -1,6 +1,15 @@
 <!-- ========================================================= -->
-# 🛰️ PROJECT: GEN-AI URBAN PLANNING INTERFACE  
+<!-- HOLOGRAPHIC SCI-FI HEADER -->
 <!-- ========================================================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2600&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=GEN-AI+URBAN+PLANNING+SYSTEM;HOLOGRAPHIC+CITY+LAYOUT+SIMULATOR;REACT+%7C+TYPESCRIPT+%7C+VITE" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System%20Status-ONLINE-00fff5?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</p>
+
+---
 
 # Generative AI for Urban Planning 
 ## 🌟 About the Project 
