@@ -88,14 +88,6 @@ http://localhost:3000/
 
 ---
 
-## 🎞️ Demo Animation (Optional Placeholder)
-*(Replace with your own GIF later)*
-
-<p align="center">
-  <img src="https://i.imgur.com/6RMhx.gif" width="600" />
-</p>
-
----
 
 ## 🔮 Future Roadmap
 
@@ -114,19 +106,4 @@ http://localhost:3000/
 **Deepika**  
 Continuous learning • Clean UI lover • Exploring AI + Urban tech
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Active%20Development-0ea5e9?style=for-the-badge" />
-</p>
 
----
-
-## ⭐ Additional Enhancements (If You Want)
-I can add:
-
-- ✨ **Glassmorphism UI Preview mockups**  
-- ✨ **Dark mode aesthetic README**  
-- ✨ **3D animated title SVG**  
-- ✨ **Tech stack animation line**  
-- ✨ **Professional header banner with branding**  
-
-Just say **“make it ultra premium”** or **“give me dark mode version”** 🔥
