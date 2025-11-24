@@ -101,6 +101,13 @@ http://localhost:3000/
 ```
 
 ---
+## 🎯 Try It Yourself 
+1. Clone the repo and install dependencies.
+2. Run the app locally with npm run dev.
+3. Explore the interactive urban planning interface.
+4. Modify configurations in metadata.json to generate custom city layouts.
+
+## Update: Minor improvements and documentation updates will be made whenever needed.
 
 ## 👩‍💻 Author  
 **Deepika**  
