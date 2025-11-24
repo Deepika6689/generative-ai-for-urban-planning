@@ -1,8 +1,8 @@
 # Generative AI for Urban Planning 
 ## 🌟 About the Project 
----
+```
 **Generative AI for Urban Planning** is a frontend web application built using **React** and **TypeScript**. It provides an interactive interface to explore AI-generated urban layouts, visualize city planning scenarios, and understand optimized urban design decisions.
----
+```
 ---
 
 ## 🚀 Live Application  
