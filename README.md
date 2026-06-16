@@ -80,3 +80,7 @@ npm run dev
 ```
 
 ### 4️⃣ Open in Browser
+```
+http://localhost:3000/
+```
+
