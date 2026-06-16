@@ -58,3 +58,25 @@ root/
 │── package.json      # Dependencies & scripts
 └── README.md         # Project documentation
 ```
+
+---
+
+## ⚙️ Getting Started
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/Deepika6689/generative-ai-for-urban-planning.git
+cd generative-ai-for-urban-planning
+```
+
+### 2️⃣ Install Dependencies
+```bash
+npm install
+```
+
+### 3️⃣ Run Development Server
+```bash
+npm run dev
+```
+
+### 4️⃣ Open in Browser
