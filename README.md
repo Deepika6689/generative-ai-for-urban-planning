@@ -84,3 +84,44 @@ npm run dev
 http://localhost:3000/
 ```
 
+---
+
+## 🧪 How It Works
+
+1. Load the city generation interface
+2. Select or modify planning scenarios
+3. Adjust AI parameters via `metadata.json`
+4. Visualize layout transformations in real time
+5. Customize UI components for expanded functionality
+
+---
+
+## 🔮 Roadmap
+
+| Status | Feature |
+|--------|---------|
+| 🔜 | Enhanced visual presets |
+| 🔜 | Export AI-generated city plans |
+| 🔜 | Detailed zoning metrics |
+| 🔜 | Real-time simulation controls |
+| 🔜 | Multi-layer rendering |
+| 🔜 | More AI configuration templates |
+
+---
+
+## 👩‍💻 Author
+
+**Deepika Sajjan**  
+B.E. — Artificial Intelligence & Machine Learning  
+
+<p>
+  <a href="https://github.com/Deepika6689">
+    <img src="https://img.shields.io/badge/GitHub-Deepika6689-181717?style=flat&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/deepika-sajjan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin" />
+  </a>
+</p>
+
+> *Continuous learner • Clean UI lover • Exploring AI + Urban tech*
+
