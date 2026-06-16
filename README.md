@@ -1,28 +1,48 @@
-# Generative AI for Urban Planning 
-## 🌟 About the Project 
+# 🏙️ Generative AI for Urban Planning
 
-**Generative AI for Urban Planning** is a frontend web application built using **React** and **TypeScript**. It provides an interactive interface to explore AI-generated urban layouts, visualize city planning scenarios, and understand optimized urban design decisions.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
 
----
-
-## 🚀 Live Application  
 <p align="center">
   <a href="https://genai-urbanplanning.netlify.app/">
-    <img src="https://img.shields.io/badge/Visit-Live%20Demo-22c55e?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/🚀 Live Demo-Visit Now-22c55e?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 🧩 Technology Stack
+## 🌟 Overview
+
+**Generative AI for Urban Planning** is an interactive frontend web application that leverages AI to explore, visualize, and optimize urban layouts and city planning scenarios — all in real time.
+
+Built with **React + TypeScript**, it offers a clean, intuitive interface for exploring AI-driven city design decisions.
+
+---
+
+## ✨ Key Features
+
+- 🗺️ **AI-Generated Urban Layouts** — Visualize city plans powered by AI configuration
+- ⚙️ **Customizable Parameters** — Modify scenarios via `metadata.json`
+- 🔄 **Real-Time Visualization** — See layout transformations instantly
+- 🧩 **Modular Architecture** — Clean component structure for easy extension
+- 📱 **Responsive UI** — Works across devices
+
+---
+
+## 🧩 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,js,html,css&theme=light" />
 </p>
 
+---
 
 ## 📁 Project Structure
-
 ```
 root/
 │── components/       # UI modules & feature components
@@ -38,71 +58,3 @@ root/
 │── package.json      # Dependencies & scripts
 └── README.md         # Project documentation
 ```
-
----
-
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/Deepika6689/generative-ai-for-urban-planning.git
-cd generative-ai-for-urban-planning
-```
-
-### 2️⃣ Install Dependencies  
-```bash
-npm install
-# or
-yarn install
-```
-
-### 3️⃣ Run the Development Server  
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-### 4️⃣ Open in Browser  
-```
-http://localhost:3000/
-```
-
----
-
-## 🧪 How It Works  
-
-- Load city generation interface  
-- Select or modify planning scenarios  
-- Adjust AI parameters via **metadata.json**  
-- Visualize layout transformations in real time  
-- Customize UI components for expanded functionality  
-
----
-
-
-## 🔮 Future Roadmap
-
-```
-▢ Enhanced visual presets  
-▢ Export AI-generated city plans  
-▢ Detailed zoning metrics  
-▢ Real-time simulation controls  
-▢ Multi-layer rendering  
-▢ More AI configuration templates  
-```
-
----
-## 🎯 Try It Yourself 
-1. Clone the repo and install dependencies.
-2. Run the app locally with npm run dev.
-3. Explore the interactive urban planning interface.
-4. Modify configurations in metadata.json to generate custom city layouts.
-
-Update: Minor improvements and documentation updates will be made whenever needed.
-
-## 👩‍💻 Author  
-**Deepika**  
-Continuous learning • Clean UI lover • Exploring AI + Urban tech
-
-
